@@ -1,4 +1,3 @@
-````markdown
 # Discord Auto Voice Join
 
 A **Discord SelfBot Script** that automatically joins specified voice channels on startup and re-joins them if you’re ever disconnected.
