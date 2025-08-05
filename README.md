@@ -1,4 +1,4 @@
-
+````markdown
 # Discord Auto Voice Join
 
 A **Discord SelfBot Script** that automatically joins specified voice channels on startup and re-joins them if you’re ever disconnected.
@@ -33,7 +33,7 @@ This script will:
      "1095447139762585685",
      "ANOTHER_CHANNEL_ID"
    ];
-   ```
+   ````
 
 ---
 
@@ -43,13 +43,13 @@ This script will:
 
    ```bash
    npm install discord.js-selfbot-v13
-   ```
+   ````
 2. **Save the script** as `voice-join.js` (see below).
 3. **Run the script**
 
    ```bash
    node voice-join.js
-   ```
+   ````
 
 ---
 
